@@ -1,0 +1,26 @@
+C:\Users\Gintoki\Pictures\DemarrageNoor1b1\DemarrageNoor\bin\Debug\DemarrageNoor.exe
+C:\Users\Gintoki\Pictures\DemarrageNoor1b1\DemarrageNoor\bin\Debug\DemarrageNoor.pdb
+C:\Users\Gintoki\Pictures\DemarrageNoor1b1\DemarrageNoor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gintoki\Pictures\DemarrageNoor1b1\DemarrageNoor\obj\x86\Debug\DemarrageNoor.Form1.resources
+C:\Users\Gintoki\Pictures\DemarrageNoor1b1\DemarrageNoor\obj\x86\Debug\DemarrageNoor.Properties.Resources.resources
+C:\Users\Gintoki\Pictures\DemarrageNoor1b1\DemarrageNoor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Gintoki\Pictures\DemarrageNoor1b1\DemarrageNoor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Gintoki\Pictures\DemarrageNoor1b1\DemarrageNoor\obj\x86\Debug\DemarrageNoor.exe
+C:\Users\Gintoki\Pictures\DemarrageNoor1b1\DemarrageNoor\obj\x86\Debug\DemarrageNoor.pdb
+C:\Users\Gintoki\Pictures\DemarrageNoor1c envoi\DemarrageNoor\obj\x86\Debug\DemarrageNoor.pdb
+C:\Users\Gintoki\Pictures\DemarrageNoor1c envoi\DemarrageNoor\bin\Debug\DemarrageNoor.exe
+C:\Users\Gintoki\Pictures\DemarrageNoor1c envoi\DemarrageNoor\bin\Debug\DemarrageNoor.pdb
+C:\Users\Gintoki\Pictures\DemarrageNoor1c envoi\DemarrageNoor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gintoki\Pictures\DemarrageNoor1c envoi\DemarrageNoor\obj\x86\Debug\DemarrageNoor.Form1.resources
+C:\Users\Gintoki\Pictures\DemarrageNoor1c envoi\DemarrageNoor\obj\x86\Debug\DemarrageNoor.Properties.Resources.resources
+C:\Users\Gintoki\Pictures\DemarrageNoor1c envoi\DemarrageNoor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Gintoki\Pictures\DemarrageNoor1c envoi\DemarrageNoor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Gintoki\Pictures\DemarrageNoor1c envoi\DemarrageNoor\obj\x86\Debug\DemarrageNoor.exe
+C:\Users\Froot\Desktop\DemarrageNoor1c envoi2\DemarrageNoor\bin\Debug\DemarrageNoor.exe
+C:\Users\Froot\Desktop\DemarrageNoor1c envoi2\DemarrageNoor\bin\Debug\DemarrageNoor.pdb
+C:\Users\Froot\Desktop\DemarrageNoor1c envoi2\DemarrageNoor\obj\x86\Debug\DemarrageNoor.csprojResolveAssemblyReference.cache
+C:\Users\Froot\Desktop\DemarrageNoor1c envoi2\DemarrageNoor\obj\x86\Debug\DemarrageNoor.Form1.resources
+C:\Users\Froot\Desktop\DemarrageNoor1c envoi2\DemarrageNoor\obj\x86\Debug\DemarrageNoor.Properties.Resources.resources
+C:\Users\Froot\Desktop\DemarrageNoor1c envoi2\DemarrageNoor\obj\x86\Debug\DemarrageNoor.csproj.GenerateResource.Cache
+C:\Users\Froot\Desktop\DemarrageNoor1c envoi2\DemarrageNoor\obj\x86\Debug\DemarrageNoor.exe
+C:\Users\Froot\Desktop\DemarrageNoor1c envoi2\DemarrageNoor\obj\x86\Debug\DemarrageNoor.pdb
